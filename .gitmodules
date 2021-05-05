@@ -31,3 +31,15 @@
 [submodule "fastjson"]
 	path = fastjson
 	url = git@github.com:alibaba/fastjson.git
+[submodule "linux"]
+	path = linux
+	url = git@github.com:torvalds/linux.git
+[submodule "Java-WebSocket"]
+	path = Java-WebSocket
+	url = git@github.com:TooTallNate/Java-WebSocket.git
+[submodule "godot"]
+	path = godot
+	url = git@github.com:godotengine/godot.git
+[submodule "WHID"]
+	path = WHID
+	url = git@github.com:whid-injector/WHID.git
