@@ -1,0 +1,6 @@
+[submodule "java-design-patterns"]
+	path = java-design-patterns
+	url = git@github.com:iluwatar/java-design-patterns.git
+[submodule "graal"]
+	path = graal
+	url = git@github.com:oracle/graal.git
