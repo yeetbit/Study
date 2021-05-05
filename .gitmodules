@@ -25,3 +25,9 @@
 [submodule "simple-java-websocket"]
 	path = simple-java-websocket
 	url = git@github.com:ayeminoo-zz/simple-java-websocket.git
+[submodule "openjfx-docs"]
+	path = openjfx-docs
+	url = git@github.com:openjfx/openjfx-docs.git
+[submodule "fastjson"]
+	path = fastjson
+	url = git@github.com:alibaba/fastjson.git
