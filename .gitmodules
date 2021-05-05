@@ -16,3 +16,12 @@
 [submodule "0ad"]
 	path = 0ad
 	url = git@github.com:0ad/0ad.git
+[submodule "LoboBrowser"]
+	path = LoboBrowser
+	url = git@github.com:lobobrowser/LoboBrowser.git
+[submodule "eie-pro-linux"]
+	path = eie-pro-linux
+	url = git@github.com:jforberg/eie-pro-linux.git
+[submodule "simple-java-websocket"]
+	path = simple-java-websocket
+	url = git@github.com:ayeminoo-zz/simple-java-websocket.git
