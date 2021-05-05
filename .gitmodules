@@ -10,3 +10,9 @@
 [submodule "Programming-_Principles_and_Practice_Using_Cpp"]
 	path = Programming-_Principles_and_Practice_Using_Cpp
 	url = https://github.com/BjarneStroustrup/Programming-_Principles_and_Practice_Using_Cpp
+[submodule "gnome-maps"]
+	path = gnome-maps
+	url = git@github.com:GNOME/gnome-maps.git
+[submodule "0ad"]
+	path = 0ad
+	url = git@github.com:0ad/0ad.git
