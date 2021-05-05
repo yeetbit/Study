@@ -4,3 +4,9 @@
 [submodule "graal"]
 	path = graal
 	url = git@github.com:oracle/graal.git
+[submodule "Vulkan-Tutorial-Java"]
+	path = Vulkan-Tutorial-Java
+	url = git@github.com:Naitsirc98/Vulkan-Tutorial-Java.git
+[submodule "Programming-_Principles_and_Practice_Using_Cpp"]
+	path = Programming-_Principles_and_Practice_Using_Cpp
+	url = https://github.com/BjarneStroustrup/Programming-_Principles_and_Practice_Using_Cpp
