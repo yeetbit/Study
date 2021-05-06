@@ -43,3 +43,6 @@
 [submodule "WHID"]
 	path = WHID
 	url = git@github.com:whid-injector/WHID.git
+[submodule "lsp4e"]
+	path = lsp4e
+	url = git://git.eclipse.org/gitroot/lsp4e/lsp4e.git
