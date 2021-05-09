@@ -46,3 +46,6 @@
 [submodule "lsp4e"]
 	path = lsp4e
 	url = git://git.eclipse.org/gitroot/lsp4e/lsp4e.git
+[submodule "eclipse.jdt.ls"]
+	path = eclipse.jdt.ls
+	url = git@github.com:eclipse/eclipse.jdt.ls.git
