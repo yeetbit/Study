@@ -49,3 +49,6 @@
 [submodule "eclipse.jdt.ls"]
 	path = eclipse.jdt.ls
 	url = git@github.com:eclipse/eclipse.jdt.ls.git
+[submodule "fx-trading-app"]
+	path = fx-trading-app
+	url = git@github.com:WebToLearn/fx-trading-app.git
